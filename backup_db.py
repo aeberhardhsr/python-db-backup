@@ -5,7 +5,7 @@
 #
 # Written by : Andreas Eberhard
 # Created date: Dec 25, 2022
-# Last modified: Aug 25, 2022 
+# Last modified: Dec 25, 2022 
 # Tested with : Python 3.10
 # Script Revision: 1.0
 #
